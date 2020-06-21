@@ -1,0 +1,13 @@
+{
+  "name": "promised-mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node public/index.js",
+    "dev": "nodemon public/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
