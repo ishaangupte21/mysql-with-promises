@@ -1,5 +1,5 @@
 {
-  "name": "mysql-with-promises",
+  "name": "promised-mysql",
   "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
@@ -34,12 +34,5 @@
   "dependencies": {
     "@types/mysql": "^2.15.14",
     "mysql": "^2.18.1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ishaangupte21/mysql-with-promises.git"
-  },
-  "bugs": {
-    "url": "https://github.com/ishaangupte21/mysql-with-promises/issues"
   }
 }
